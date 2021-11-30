@@ -49,7 +49,7 @@ test_lint_pmd_checkstyle:
     - ./gradlew assemble
     # always report on lint errors to the build log
     - sed -i -e 's,textReport .*,textReport true,' app/build.gradle
-    - ./gradlew testFullDebugUnitTest || set_error
+    - ./gradlew testFullDefoDebugUnitTest || set_error
     - ./gradlew lint || set_error
     - ./gradlew pmd || set_error
     - ./gradlew checkstyle || set_error
@@ -80,7 +80,7 @@ errorprone:
 .connected-template: &connected-template
   extends: .base
   script:
-    - ./gradlew assembleFullDebug
+    - ./gradlew assembleFullDefoDebug
     - export AVD_SDK=`echo $CI_JOB_NAME | awk '{print $2}'`
     - export AVD_TAG=`echo $CI_JOB_NAME | awk '{print $3}'`
     - export AVD_ARCH=`echo $CI_JOB_NAME | awk '{print $4}'`
@@ -95,12 +95,12 @@ errorprone:
     - wait-for-emulator
     - adb devices
     - adb shell input keyevent 82 &
-    - ./gradlew installFullDebug
+    - ./gradlew installFullDefoDebug
     - adb shell am start -n org.fdroid.fdroid.debug/org.fdroid.fdroid.views.main.MainActivity
     - if [ $AVD_SDK -lt 25 ] || ! emulator -accel-check; then
           export FLAG=-Pandroid.testInstrumentationRunnerArguments.notAnnotation=androidx.test.filters.LargeTest;
       fi
-    - ./gradlew connectedFullDebugAndroidTest $FLAG
+    - ./gradlew connectedFullDefoDebugAndroidTest $FLAG
 
 no-accel 22 default x86:
   <<: *test-template
