@@ -77,11 +77,6 @@ android {
             applicationId fullApplicationId
             resValue "string", "applicationId", fullApplicationId
         }
-        basic {
-            dimension "base"
-            applicationId basicApplicationId
-            resValue "string", "applicationId", basicApplicationId
-        }
     }
 
     compileOptions {
