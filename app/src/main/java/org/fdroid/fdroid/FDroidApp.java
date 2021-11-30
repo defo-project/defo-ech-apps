@@ -403,6 +403,7 @@ public class FDroidApp extends Application implements androidx.work.Configuratio
 
         configureProxy(preferences);
 
+        ConscryptLoader.installConscrypt();
 
         // bug specific to exactly 5.0 makes it only work with the old index
         // which includes an ugly, hacky workaround
