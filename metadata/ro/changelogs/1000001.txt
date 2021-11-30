@@ -1,3 +1,0 @@
-* Corectarea unei erori de eliminare a aplicațiilor din depozite (#568)
-
-* Actualizări mult mai rapide ale indexului

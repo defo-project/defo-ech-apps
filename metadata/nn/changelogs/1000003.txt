@@ -1,3 +1,0 @@
-* Store ytingsforbetringar i brukargrensesnittet, spesielt med arkivering påslått
-
-* Retta nokre krasjfeil

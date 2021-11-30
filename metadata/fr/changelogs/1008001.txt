@@ -1,4 +1,0 @@
-* Prise en charge des permissions de configuration d'Android 10 pour arrêter l'affichage du message des sources inconnues
-* Le clavier s'ouvre en fin de recherche
-* Synchronisation des traduction Android
-* HTTPS forcé sur les dépôts communs (GitLab, GitHub, Amazon)

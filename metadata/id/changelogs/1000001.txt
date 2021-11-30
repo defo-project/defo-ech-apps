@@ -1,3 +1,0 @@
-* Memperbaiki error menghapus aplikasi dari repo (#568)
-
-* Lebih cepat update indeks

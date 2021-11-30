@@ -1,7 +1,0 @@
-* stuðningur við uppsetningu á skrám með margmiðlunargögnum, OTA, ZIP, o.s.frv.
-
-* fullur stuðningur við APK-pakka sem undirritaðir eru með mörgum mismunandi dulritunarlyklum
-
-* ný þýðing á tíbetsku
-
-* tengd forrit og flokkar eru fjarlægð eftir að slökkt er á hugbúnaðarsafni

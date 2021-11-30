@@ -1,3 +1,0 @@
-* Uppdaterade översättningar
-* Problem med fast knappstorlek #1678
-* Stoppade slumpmässiga bakgrundskrascher

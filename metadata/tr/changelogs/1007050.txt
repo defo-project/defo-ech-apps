@@ -1,7 +1,0 @@
-* Takas arayüzünün büyük revizyonu
-* Öğeleri Güncellemeler sekmesinden kaydırdıktan sonra "Geri al" ı göster (teşekkürler @Hocuri!)
-* Saat dilimleri yanlış kullanımından kaynaklanan "Son" ekran ile ilgili sorunları giderme #1757
-* Arka plan hizmetlerindeki tüm önemsiz kilitlenmeleri yoksay
-* Cihazın erişim noktası AP'sini kullanarak yakındaki takas değiştirildi
-* Yeni panik yanıtları ekleme
-* USB OTG flash sürücüler yakındaki depolar ve aynalar olarak kullanılabilir

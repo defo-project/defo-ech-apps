@@ -1,3 +1,0 @@
-* Parandus veale, mis takistas tõlgete kuvamist Androidil >= 7.0
-
-* Parandus veale andmebaasi uuendamisel 1.0-alpha3 → 1.0-alpha4 #1181

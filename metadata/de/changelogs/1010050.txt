@@ -1,7 +1,0 @@
-* Verwendung von Benachrichtigungskanälen für feinere Steuerung (@Isira-Seneviratne)
-* Verbesserte Sprachauswahl mit mehreren Gebietsschemata (@spacecowboy/@bubu)
-* Neuester Tab zeigt bessere Ergebnisse auf nicht-englischen Geräten
-* Aktualisierungen der Kernbibliotheken (Jackson, androidx, gradle, etc)
-* Polnische Whitelabeling-Unterstützung
-
-Danke an neue Mitwirkende! @spacecowboy @projectgus @glennmen @Isira-Seneviratne

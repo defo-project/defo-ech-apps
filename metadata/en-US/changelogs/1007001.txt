@@ -1,5 +1,0 @@
-* overhauled nearby swap using the device's hotspot AP
-
-* add new panic responses: app uninstalls and reset repos to default
-
-* fix proxy support on first start

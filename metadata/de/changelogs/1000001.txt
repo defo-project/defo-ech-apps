@@ -1,3 +1,0 @@
-* Entfernung von Apps aus Repos korrigiert (#568)
-
-* Viel schnellere Index-Updates

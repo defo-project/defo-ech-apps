@@ -1,3 +1,0 @@
-* Uppfærðar þýðingar
-* Lagað vandamál með stærðir hnappa #1678
-* Stöðvað tilviljanakennt hrun í bakgrunni

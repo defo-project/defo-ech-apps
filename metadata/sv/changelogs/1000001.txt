@@ -1,3 +1,0 @@
-* Fixa bugg som tar bort appar från förråd (#568)
-
-* Mycket snabbare indexuppdateringar

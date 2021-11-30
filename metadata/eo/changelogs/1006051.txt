@@ -1,3 +1,0 @@
-* aktualigitaj tradukoj
-* riparis problemon pri grando de butono (#1678)
-* riparis hazardajn paneojn dum fone

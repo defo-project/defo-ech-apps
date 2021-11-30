@@ -1,3 +1,0 @@
-* Përmirësime të mëdha të punës së UI-t, veçanërisht me arkiva të aktivizuar
-
-* U ndreqën të meta që shkaktonin vithisje

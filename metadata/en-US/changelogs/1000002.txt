@@ -1,7 +1,0 @@
-* Prevent HTTP ETag from being used as a tracking cookie
-
-* Improved screenshots layout
-
-* Properly clean up temp and cached files
-
-* Dark mode fixes

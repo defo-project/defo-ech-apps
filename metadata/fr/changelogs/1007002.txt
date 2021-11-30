@@ -1,1 +1,0 @@
-* Les clés USB OTG peuvent être utilisées comme dépôts locaux et miroirs

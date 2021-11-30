@@ -1,3 +1,0 @@
-* Traduccions actualitzades
-* Arreglat el problema #1678 sobre la mida del botó
-* Arreglat el problema de fallides aleatòries quan s'executa en segon pla

@@ -1,1 +1,0 @@
-* Dyski flash USB OTG mogą być używane jako pobliskie repozytoria i serwery lustrzane

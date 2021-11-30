@@ -1,7 +1,0 @@
-*Interrupteurs ajoutés à RepoDetails pour désactiver des ou tous les mirroirs #1696
-
-*Choix de miroir aléatoire pour chaque téléchargement de paquet/APK
-
-*Tous les téléchargements d'APK mis en cache par repo, non par mirroir
-
-*Traiter les ETags Apache et NGINX pendant la vérification si l'indice est courrant #1708

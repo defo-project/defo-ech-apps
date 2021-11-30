@@ -1,7 +1,0 @@
-* Gesturi de glisare adăugate la fila Actualizări
-
-* Afișarea avertismentelor cu acțiuni în fila Actualizări pentru KnownVulns
-
-* Traduceri actualizate
-
-* Corecții ale interfeței întunecate

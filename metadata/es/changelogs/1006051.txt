@@ -1,3 +1,0 @@
-* Traducciones actualizadas
-* Problemas con el tamaño de botón corregidos #1678
-* Se han resuelto problemas con errores de bloqueo en segundo plano

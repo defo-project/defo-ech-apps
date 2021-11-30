@@ -1,3 +1,0 @@
-* Stora förbättringar av användargränssnittet, särskilt när arkiv är aktiverat
-
-* Fixade krascher-buggar

@@ -1,7 +1,0 @@
-* Dodano przełączanie do RepoDetails, aby wyłączyć dowolne lub wszystkie serwery lustrzane (#1696)
-
-* Losowy wybór serwera lustrzanego dla każdego pakietu/pobrania APK
-
-* Wszystkie pliki APK pobierają buforowane dane z repozytorium, a nie z serwera lustrzanego
-
-* Obsługa Apache i NGINX ETags podczas sprawdzania, czy indeks jest aktualny (#1708)

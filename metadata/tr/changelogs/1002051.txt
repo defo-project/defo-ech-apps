@@ -1,8 +1,0 @@
-* Depolama alanı az olduğunda önbelleği otomatik olarak kırp veya sil
-* Düşük bellekli cihazlarda performans iyileştirildi
-* Tüm indirmelerin "Sadece Wi-Fi'de" tercihini dikkate almasını sağla
-* Pil azaldığında bellek kullanımını düşür
-* Bağlantıları tıklayarak, QR kodlarını tarayarak vb. herhangi bir depoya özel aynalar ekle
-* Otomatik yansı seçimi iyileştirildi
-* Birçok Takas/Yakında hata düzeltmesi ve iyileştirmesi
-* Tekrarlayan güncelleme bildirimlerinin bir nedeni düzeltildi

@@ -1,3 +1,0 @@
-* Çeviri güncellendi
-* Düğme boyutu sorunları düzeltildi #1678
-* Rastgele arka plan çökmeleri durduruldu

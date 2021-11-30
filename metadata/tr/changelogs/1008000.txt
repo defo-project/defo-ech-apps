@@ -1,3 +1,0 @@
-* Son Android sürümlerinde arama çubuğu tercihini düzelt (teşekkürler @dkanada)
-* API 29 bölünmüş izinlerini kullan: hassas konum artık yaklaşık konumu da içerir
-* Takas deposunu kaydetmemek için yedekleme kuralları tanımla

@@ -1,7 +1,0 @@
-* Multimedia, OTA, ZIP... fitxategiak instalatzeko euskarria
-
-* Hainbat giltzekin sinatutako APK fitxategientzako euskarria
-
-* Tibeterara itzulita
-
-* Biltegi bat desaktibatzean kendu erlazionatutako aplikazioak eta kategoriak

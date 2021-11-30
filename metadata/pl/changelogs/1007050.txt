@@ -1,7 +1,0 @@
-* Remont UI, przygotowanie do przepisania
-* Pokaż „cofnij” po przesunięciu elementów z karty Aktualizacje (dzięki @Hocuri!)
-* Naprawiono problemy z wyświetlaniem "Najnowsze" spowodowane niewłaściwymi strefami czasowymi #1757
-* Ignorowanie nieistotnych awarii w usługach w tle
-* Wymiana w pobliżu korzysta z AP urządzenia
-* Dodano nowe reakcje napadowe: aplikacja odinstaluje i zresetuje repo do wartości domyślnych 
-* Dyski flash USB OTG mogą być używane jako pobliskie repo i serwery lustrzane

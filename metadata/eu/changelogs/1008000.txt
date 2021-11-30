@@ -1,3 +1,0 @@
-* Bilaketa barraren lehentasuna zuzenduta Android berrietan (eskerrak @dkanada)
-* API 29-ko baimen banatuen kudeaketa.
-* Babes-kopia arauak tarteko biltegia ez gordetzeko

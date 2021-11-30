@@ -1,3 +1,0 @@
-* Tõlgete värskendused
-* Nupu suuruse parandused (vearaport #1678)
-* Lõpetati juhuslikud krahhid taustal

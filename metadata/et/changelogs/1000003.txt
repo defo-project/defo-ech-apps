@@ -1,3 +1,0 @@
-* Suured kasutajaliidese jõudluse parendused, eriti siis, kui arhiivid on lubatud
-
-* Krahhihalduri vigade parandused
