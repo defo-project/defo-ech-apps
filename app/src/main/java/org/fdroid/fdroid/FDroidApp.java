@@ -278,27 +278,7 @@ public class FDroidApp extends Application implements androidx.work.Configuratio
      * @see Repo#getRandomMirror(String)
      */
     public static synchronized String getNewMirrorOnError(@Nullable String urlString, Repo repo2) throws IOException {
-        if (repo2.hasMirrors()) {
-            if (numTries <= 0) {
-                if (timeout == Downloader.DEFAULT_TIMEOUT) {
-                    timeout = Downloader.SECOND_TIMEOUT;
-                    numTries = Integer.MAX_VALUE;
-                } else if (timeout == Downloader.SECOND_TIMEOUT) {
-                    timeout = Downloader.LONGEST_TIMEOUT;
-                    numTries = Integer.MAX_VALUE;
-                } else {
-                    Utils.debugLog(TAG, "Mirrors: Giving up");
-                    throw new IOException("Ran out of mirrors");
-                }
-            }
-            if (numTries == Integer.MAX_VALUE) {
-                numTries = repo2.getMirrorCount();
-            }
-            numTries--;
-            return switchUrlToNewMirror(urlString, repo2);
-        } else {
-            throw new IOException("No mirrors available");
-        }
+        return switchUrlToNewMirror(urlString, repo2);
     }
 
     /**
@@ -309,7 +289,7 @@ public class FDroidApp extends Application implements androidx.work.Configuratio
         if (lastWorkingMirror == null) {
             lastWorkingMirror = repo2.address;
         }
-        String mirror = repo2.getRandomMirror(lastWorkingMirror);
+        String mirror = repo2.address;
         lastWorkingMirrorArray.put(repo2.getId(), mirror);
         return urlString.replace(lastWorkingMirror, mirror);
     }
