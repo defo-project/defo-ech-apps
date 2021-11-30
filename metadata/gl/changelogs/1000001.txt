@@ -1,3 +1,0 @@
-*Arreglado o bug ao borrar aplicacións de repositorios(#568)
-
-*Actualizacións do inicio moi máis rápidas

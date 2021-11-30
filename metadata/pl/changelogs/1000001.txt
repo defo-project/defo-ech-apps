@@ -1,3 +1,0 @@
-* Naprawiono błąd usuwania aplikacji z repozytorium (#568)
-
-* Znacznie szybsze aktualizacje indeksu

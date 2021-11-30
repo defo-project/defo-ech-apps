@@ -1,7 +1,0 @@
-* hassas denetim için bildirim kanallarını kullan (@Isira-Seneviratne)
-* birden fazla yerel ayarla dil seçimi iyileştirildi (@spacecowboy/@bubu)
-* En Yeniler Sekmesi, İngilizce olmayan cihazlarda daha iyi sonuçlar gösterecek
-* çekirdek kütüphaneler (Jackson, androidx, gradle vb.) için güncellemeler
-* beyaz etiketleme desteğini geliştir
-
-Yeni katkıda bulunanlara teşekkürler! @spacecowboy @projectgus @glennmen @Isira-Seneviratne

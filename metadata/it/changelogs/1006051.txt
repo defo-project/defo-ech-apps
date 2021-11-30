@@ -1,3 +1,0 @@
-* Aggiornate le traduzioni
-* Risolti problemi con la dimensione dei bottoni #1678
-* Eliminati crash casuali in background

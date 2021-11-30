@@ -1,3 +1,0 @@
-* U përditësuan përkthime
-* U ndreqën probleme me madhësinë e butonave #1678
-* U ndalën vithisje të rastësishme në prapaskenë

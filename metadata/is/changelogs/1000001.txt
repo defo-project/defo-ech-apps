@@ -1,3 +1,0 @@
-* lagfærð villa varðandi fjarlægingu forrita úr hugbúnaðarsafni (#568)
-
-* mun hraðari uppfærsla atriðavísa

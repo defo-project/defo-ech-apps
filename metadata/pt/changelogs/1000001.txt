@@ -1,3 +1,0 @@
-* Corrigido erro que remove aplicações dos repositórios (#568)
-
-* Atualizações de índice mais rápidas

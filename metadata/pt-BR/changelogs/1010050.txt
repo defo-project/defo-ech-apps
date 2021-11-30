@@ -1,7 +1,0 @@
-* uso de canais de notificação para um controle mais apurado (@Isira-Seneviratne)
-* seleção linguística melhorada com múltiplos idiomas (@spacececowboy/@bubu)
-* a guia novidades irá mostrar melhores resultados em dispositivos que não usem o inglês
-* atualizações das bibliotecas centrais (Jackson, androidx, gradle, etc)
-* suporte de versões personalizadas melhorado
-
-Obrigado aos novos colaboradores! @spacececowboy @projectgus @glennmennmen @Isira-Seneviratne

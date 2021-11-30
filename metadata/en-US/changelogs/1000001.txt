@@ -1,3 +1,0 @@
-* Fix bug removing apps from repos (#568)
-
-* Much faster index updates

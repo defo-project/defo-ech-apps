@@ -1,3 +1,0 @@
-* Repo uygulamalarından kaldırma hatası düzeltildi (#568)
-
-* Çok daha hızlı dizin güncellemeleri

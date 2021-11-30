@@ -1,5 +1,0 @@
-* közeli csere átdolgozása
-
-* új pánikválaszok: a tárolók eltávolítása és visszaállítás az alapértelmezettre
-
-* proxy támogatás javítása az első indításkor

@@ -1,3 +1,0 @@
-* Îmbunătățiri mari ale performanței UI, în special cu arhiva activată
-
-* Bug-uri de crasher fixate

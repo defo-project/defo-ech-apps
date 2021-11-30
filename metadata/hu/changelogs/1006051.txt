@@ -1,3 +1,0 @@
-* Frissített fordítások
-* Gombméretezési problémák javítása #1678
-* A háttérben történő véletlenszerű összeomlások javítása

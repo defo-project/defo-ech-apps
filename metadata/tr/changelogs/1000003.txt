@@ -1,3 +1,0 @@
-* Önemli kullanıcı arayüzü performans iyileştirmeleri, özellikle arşiv etkin iken
-
-* Uygulamayı çökerten hatalar düzeltildi

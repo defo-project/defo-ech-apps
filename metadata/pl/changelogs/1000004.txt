@@ -1,7 +1,0 @@
-* Gesty dodano do zakładki aktualizacje
-
-* Wyświetlanie ostrzeżenia za pomocą akcji na karcie Aktualizacje dla KnownVulns
-
-* Aktualizowano tłumaczenia
-
-* Poprawki ciemny UI

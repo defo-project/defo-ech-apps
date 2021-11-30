@@ -1,3 +1,0 @@
-* Retta feil ved fjerning av appar frå pakkebrønnar (#568)
-
-* Mykje raskare oppdatering av indeks

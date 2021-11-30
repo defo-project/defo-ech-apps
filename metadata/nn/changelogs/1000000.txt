@@ -1,7 +1,0 @@
-* Støtte for installasjonsmedium, OTA- og ZIP-filer o.l.
-
-* Full støtte for APK-filer signerte med fleire nøklar
-
-* Omsett til tibetansk
-
-* Fjernar tilhøyrande appar og kategoriar når ein slår av pakkebrønnar

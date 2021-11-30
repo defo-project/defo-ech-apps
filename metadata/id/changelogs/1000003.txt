@@ -1,3 +1,0 @@
-* Peningkatan besar UI dan performa, khususnya dengan arsip diaktifkan
-
-* Memperbaiki error

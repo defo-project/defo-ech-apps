@@ -1,3 +1,0 @@
-* Fiks av feil ved fjerning av programmer fra pakkebrønner (#568)
-
-* Mye raskere indeksoppdateringer

@@ -1,5 +1,0 @@
-* swap próximo revisto a usar o hotspot AP do aparelho
-
-* adicionar novas respostas de pânico: desinstalar apps e redefinir reposições para predefinição
-
-* corrigir o suporte de proxy no primeiro início

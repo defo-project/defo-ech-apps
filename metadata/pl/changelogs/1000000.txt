@@ -1,7 +1,0 @@
-* Obsługa plików instalacyjnych, plików OTA, ZIP itp
-
-* Pełne wsparcie dla APKs podpisane przez wiele klucze podpisywania
-
-* Nowe tłumaczenie tybetańskie
-
-* Usuń powiązane aplikacje i kategorie po wyłączeniu repozytorium

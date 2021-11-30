@@ -1,7 +1,0 @@
-* Sprijină instalarea de fișiere media, OTA, ZIP etc.
-
-* Suport complet pentru APK-uri semnate de mai multe chei de semnare
-
-* Traducere nouă în tibetană
-
-* Eliminarea aplicațiilor și categoriilor aferente după dezactivarea unui repo

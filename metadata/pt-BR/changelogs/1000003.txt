@@ -1,3 +1,0 @@
-* Grande melhoria no desempenho da UI, especialmente com arquivamento ativado
-
-* Corrigidos erros que causavam travamento

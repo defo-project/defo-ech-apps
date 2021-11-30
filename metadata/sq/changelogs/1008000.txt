@@ -1,3 +1,0 @@
-* Ndreqje parapëlqimi për <em>seekbar</em> në versione të fundit Android (falënderime për @dkanada)
-* Trajtim lejesh ndarjesh API 29: vendndodhja e përimtuar tani nënkupton vendndodhje të përafërt
-* Përcaktim rregullash kopjeruajtjeje për të shmangur ruajtjen e depos së shkëmbimeve
