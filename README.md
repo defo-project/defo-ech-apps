@@ -1,3 +1,5 @@
+DEfO ECH Apps
+-------------
 
 This is a demo fork of F-Droid to serve as an example app built on the
 development fork of Conscrypt which supports TLS Encrypted ClientHello (ECH).
@@ -16,3 +18,7 @@ that use OpenSSL as a demonstration and for interoperability testing.
 DEfO was initially funded by the Open Technology Fund, and subsequently by the
 National Democratic Initiative. Tolerant Networks Ltd. and people from the
 Guardian Project are doing the work in DEfO.
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/ie.defo.ech_apps/)
