@@ -18,7 +18,7 @@ def preDexEnabled = "true" == System.getProperty("pre-dex", "true")
 def fullApplicationId = "ie.defo.ech_apps"
 def basicApplicationId = "org.fdroid.basic"
 // yes, this actually needs both quotes https://stackoverflow.com/a/41391841
-def privilegedExtensionApplicationId = '"org.fdroid.fdroid.privileged"'
+def privilegedExtensionApplicationId = '"ie.defo.ech_apps.privileged"'
 
 android {
     compileSdkVersion 30
