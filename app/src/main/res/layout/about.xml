@@ -51,6 +51,13 @@
             android:text="@string/license_gplv3_later"
             style="@style/BodyText" />
 
+        <TextView
+            android:text="@string/about_cloudflare_trace"
+            style="@style/CaptionText" />
+        <TextView
+            android:id="@+id/cloudflare_trace"
+            style="@style/BodyText" />
+
     </LinearLayout>
 
 </ScrollView>
