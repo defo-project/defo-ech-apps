@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_description">A demo fork of F-Droid to serve as an example app built on the development fork of Conscrypt. We hope to make that really usable as the server side of F-Droid runs on Cloudflare.</string>
+
+    <string name="site_link">https://defo.ie</string>
+    <string name="forum_link">mailto:info@tolerantnetworks.com</string>
+    <string name="source_link">https://github.com/defo-project/defo-ech-apps</string>
+
+</resources>
