@@ -458,6 +458,7 @@ public class PreferencesFragment extends PreferenceFragmentCompat
                     final TextView cloudflareTraceTextView = view.findViewById(R.id.cloudflare_trace);
                     new Thread() {
                         @Override
+                        @SuppressWarnings("AvoidEscapedUnicodeCharacters")
                         public void run() {
                             String cloudflareTrace = null;
                             final Properties properties = new Properties();
