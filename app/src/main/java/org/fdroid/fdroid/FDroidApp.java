@@ -278,6 +278,7 @@ public class FDroidApp extends Application implements androidx.work.Configuratio
      * @see Repo#getRandomMirror(String)
      */
     public static synchronized String getNewMirrorOnError(@Nullable String urlString, Repo repo2) throws IOException {
+        Utils.debugLog(TAG, "numTries " + numTries); // silence pmd
         return switchUrlToNewMirror(urlString, repo2);
     }
 
