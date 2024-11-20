@@ -6,7 +6,7 @@
         <!-- name -->
         <item>F-Droid Archive</item>
         <!-- address -->
-        <item>https://epochbelt.com/archive</item>
+        <item>https://cloudflare.f-droid.org/archive</item>
         <!-- description -->
         <item>The archive repository of the F-Droid client. This contains older versions of
             applications from the main repository.
@@ -27,7 +27,7 @@
         <!-- name -->
         <item>F-Droid</item>
         <!-- address -->
-        <item>https://epochbelt.com/repo</item>
+        <item>https://cloudflare.f-droid.org/repo</item>
         <!-- description -->
         <item>The official F-Droid Free Software repository. Everything in this repository is always built from the source code.
         </item>

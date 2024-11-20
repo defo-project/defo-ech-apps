@@ -464,7 +464,7 @@ public class PreferencesFragment extends PreferenceFragmentCompat
                             final Properties properties = new Properties();
                             try {
                                 Downloader downloader = DownloaderFactory.create(context,
-                                        "https://epochbelt.com/cdn-cgi/trace");
+                                        "https://cloudflare.f-droid.org/cdn-cgi/trace");
                                 downloader.download();
                                 cloudflareTrace = FileUtils.readFileToString(downloader.outputFile,
                                         Charset.defaultCharset());
