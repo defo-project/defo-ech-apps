@@ -14,6 +14,9 @@ protocol. The DEfO project is developing an implementation of ECH for
 OpenSSL, and various clients and servers that use OpenSSL as a
 demonstration and for interoperability testing.
 
+This uses the mirror of f-droid.org that is on Cloudflare with ECH
+enabled: https://cloudflare.f-droid.org
+
 DEfO was initially funded by the Open Technology Fund, and
 subsequently by the National Democratic Initiative. Tolerant Networks
 Ltd. and people from the Guardian Project are doing the work in DEfO.
